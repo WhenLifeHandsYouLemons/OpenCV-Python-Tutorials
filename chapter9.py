@@ -4,7 +4,7 @@ Chapter 9: Face Detection
 import cv2
 import numpy as np
 
-faceCascade = cv2.CascadeClassifier("Resources/haarcascade_frontalface_default.xml")
+faceCascade = cv2.CascadeClassifier("Resources/Haarcascades/haarcascade_frontalface_default.xml")
 
 img = cv2.imread("Resources/lena.jpg")
 cv2.imshow("Result", img)
