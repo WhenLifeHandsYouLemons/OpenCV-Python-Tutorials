@@ -2,52 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8ed7d39-7503-4280-8e46-eb638a91b477" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_eye.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_eye_tree_eyeglasses.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_frontalcatface.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_frontalcatface_extended.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_frontalface_alt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_frontalface_alt2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_frontalface_alt_tree.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_frontalface_default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_fullbody.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_lefteye_2splits.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_licence_plate_rus_16stages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_lowerbody.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_profileface.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_righteye_2splits.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_russian_plate_number.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_smile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Haarcascades/haarcascade_upperbody.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Hogcascades/hogcascade_pedestrians.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/lbpcascades/lbpcascade_frontalcatface.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/lbpcascades/lbpcascade_frontalface.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/lbpcascades/lbpcascade_frontalface_improved.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/lbpcascades/lbpcascade_profileface.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/lbpcascades/lbpcascade_silverware.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_eye.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_eye_tree_eyeglasses.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_frontalcatface.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_frontalcatface_extended.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_frontalface_alt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_frontalface_alt2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_frontalface_alt_tree.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_frontalface_default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_fullbody.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_lefteye_2splits.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_licence_plate_rus_16stages.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_lowerbody.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_profileface.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_righteye_2splits.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_russian_plate_number.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_smile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_upperbody.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/hogcascade_pedestrians.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/lbpcascade_frontalcatface.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/lbpcascade_frontalface.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/lbpcascade_frontalface_improved.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/lbpcascade_profileface.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/lbpcascade_silverware.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/2005s.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/face.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter9.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter9.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
