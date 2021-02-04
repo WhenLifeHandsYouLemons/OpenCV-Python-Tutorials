@@ -2,7 +2,7 @@
  This is a repository with OpenCV tutorials using Python in Jetbrains Pycharm.
 
 ## Video Tutorial Link
- 
+ https://www.youtube.com/watch?v=WQeoO7MI0Bs
 
 ## Chapter 1
  How to import images, videos and even live videos (webcam).

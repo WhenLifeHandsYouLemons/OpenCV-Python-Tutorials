@@ -67,18 +67,18 @@ def getContours(img):
 path = "Resources/shapes.jpg"
 
 img = cv2.imread(path)
-#cv2.imshow("Original", img)
+# cv2.imshow("Original", img)
 
 imgContour = img.copy()
 
 imgGrey = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-#cv2.imshow("Grey Scale", imgGrey)
+# cv2.imshow("Grey Scale", imgGrey)
 
 imgBlur = cv2.GaussianBlur(imgGrey, (7, 7), 1)
-#cv2.imshow("Blurred", imgBlur)
+# cv2.imshow("Blurred", imgBlur)
 
 imgCanny = cv2.Canny(imgBlur, 50, 50)
-#cv2.imshow("Edge Detection", imgCanny)
+# cv2.imshow("Edge Detection", imgCanny)
 
 getContours(imgCanny)
 

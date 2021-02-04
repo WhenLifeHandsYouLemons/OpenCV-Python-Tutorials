@@ -57,7 +57,6 @@ imgHSV = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
 #cv2.imshow("HSV Colour Space", imgHSV)
 
 while True:
-
     h_min = cv2.getTrackbarPos("Hue Min", "TrackBars")
     h_max = cv2.getTrackbarPos("Hue Max", "TrackBars")
     s_min = cv2.getTrackbarPos("Sat Min", "TrackBars")
