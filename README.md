@@ -1,5 +1,7 @@
 # OpenCV Python Tutorials
  This is a repository with OpenCV tutorials using Python in Jetbrains Pycharm.
+ 
+ This repository will NOT be updated if you are reading this.
 
 ## Video Tutorial Link
  https://www.youtube.com/watch?v=WQeoO7MI0Bs
@@ -32,4 +34,5 @@
  Detecting faces or body parts in an image using Haarcascades.
 
 ## Chapter 10
+ Not completed yet.
  
